@@ -1,7 +1,5 @@
 # Introdução
 
-Olá, meu nome é Henrique, eu tenho 19 anos e atualmente estou cursando Ciência da Computação no IFSC - Lages
-
 # Learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 
